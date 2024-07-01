@@ -12,10 +12,3 @@ if (!defined('DB_HOST'))            define('DB_HOST','localhost');
 if (!defined('DB_USERNAME'))        define('DB_USERNAME','admin');
 if (!defined('DB_PASSWORD'))        define('DB_PASSWORD' ,'admin');
 if (!defined('DB_PORT'))            define('DB_PORT' ,'');
-
-
-if (!defined('MAIL_HOST'))          define('MAIL_HOST', '5MG');
-if (!defined('MAIL_USERNAME'))      define('MAIL_USERNAME', 'spas.5mg.g6@gmail.com');
-if (!defined('MAIL_PASSWORD'))      define('MAIL_PASSWORD', '45t3892v7039n4578tv0');
-if (!defined('MAIL_ENCRYPTION'))    define('MAIL_ENCRYPTION', 'ssl');
-if (!defined('MAIL_PORT'))          define('MAIL_PORT', 465);
